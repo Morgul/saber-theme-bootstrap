@@ -1,0 +1,9 @@
+{
+  "name": "saber-theme-bootstrap",
+  "version": "1.0.0-dev.0",
+  "description": "A Saber theme using BootstrapVue with Bootswatch support.",
+  "main": "index.js",
+  "repository": "https://github.com/Morgul/saber-theme-bootstrap.git",
+  "author": "Christopher S. Case <chris.case@g33xnexus.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,28 @@
+# OS artifacts
+.DS_Store
+
+# Build artifacts
+dist/
+.cache/
+
+# Editor artifacts
+*~
+.project
+.settings/
+.idea/
+
+# Node artifacts
+npm-debug.log
+yarn-debug.log
+node_modules
+
+# Misc
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+
